@@ -1,0 +1,19 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "practice to make package.json manually",
+  "main": "node_module.js",
+  "scripts": {
+    "test": "echo \\ \"error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "puneet",
+    "bajpai"
+  ],
+  "author": "puneet bajpai",
+  "license": "ISC"
+}
